@@ -1,3 +1,12 @@
+Opis parametrów środowiska testowego - Laboratorium 2 Przedmiot: Integracja
+Systemów
+
+1. System operacyjny: Windows 11
+2. Środowisko programistyczne: Visual Studio Code
+3. Język programowania: PHP 8.5
+4. Wersja platformy: Python 3.10.6
+5. Baza danych: MySQL
+
 Zadanie 3.3.4 Czy dostrzegasz jakieś zależności?
 
 - mimo że app2 wysyła mniej zapytań (jedno na 2 sekundy) to jej maksymalny czas
